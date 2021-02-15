@@ -1,0 +1,22 @@
+body{
+    background-color: darkblue;
+    color: white;
+    
+}
+
+h1{
+
+}
+
+h2{
+    color: lightgreen;
+}
+
+.address{
+    color: red;
+    display: flex;
+    justify-content: space-around;
+}
+.main-details{
+    text-align: center;
+}
